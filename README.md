@@ -23,10 +23,18 @@ While the clinic does utilize technology, their use of it is very bare-bones. Re
 ## Solution Overview
 We plan to make a task management system for the clinic that will record patient records and histories, as well as all of the other information already collected by the current software. This system will centralize the clinic's functions and store them in a database that can be easily accessed. Not only will this streamline the clinic's appointments, but it also reduces human error by eliminating handwitten notes. This management system could potentially pose a huge benefit to the clinic, and outweighs the potential costs.
 
-### Planning Phase
+# Planning Phase
 ## Requirements
+-The receptionist should be able to identify patients, verify their contact information, and note the chief complaint or reason for visit <br />
+-Checking patients in on this page should notify either the tech or doctor, depending on which is needed for the visit <br />
+-The application should allow techs and doctors to see and edit patient information <br />
+-The application will also allow staff to see patient's history if they have any <br />
+-The application will have a page for ordering prescriptions, previous allergies/medications will also be stored <br />
+-Staff will be able to order prescriptions, surgeries, procedures, or check the patient out depending on the situation <br />
 
+## Feasibility Analysis
 
 
 
 Sales, inventory, schedules, contact information, labels, surgeries, vaccine records, 
+vaccines, nail trims, non diagnosis/prescription
