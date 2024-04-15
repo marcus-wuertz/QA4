@@ -33,7 +33,13 @@ We plan to make a task management system for the clinic that will record patient
 -Staff will be able to order prescriptions, surgeries, procedures, or check the patient out depending on the situation <br />
 
 ## Feasibility Analysis
-
+The development of this electronic record system will be feasible, economically viable, and operationally compatible with the clinic's needs. The potential benefits of this system could be significant enough to get the clinic off the ground. With the long term goal of creating a workplace another veterinarian would want to come to, this system could significantly move the clinic toward that goal. The benefits of this system largely outweigh the costs it may impose. 
+### Technical Feasibility
+This system could be designed using free modern software such as Visual Studio code to create the application, and a database such as mysql or postgresql relational database management systems. The database could also be created within Visual Studio. These technologies are widely used and relatively intuitive. They are also scalable and could be used to manage the influx of patients the clinic is experiencing.
+### Economic Feasibility
+The software needed to create this record system is, as stated, open source. Additionally, the costs of labor and other miscellaneouls costs are not very high. This system could potentially increase efficiency and reduce errors, as well as establishing a cohesiveness that the current software does not have. Thus, the benefits of this project far outweigh the minor costs it may impose. 
+### Operational Feasibility
+Because this client is not agreeable to change, the application needs to be fairly intuitive. If the application can be easily used and interpreted by the staff, it will not face any tension with implementation. There is already a shared distaste for the current software because of it's complications, so an easily interpretable design would welcomed. Centralizing patient information will streamline activity in the clinic and create a more organized environment than the current state. 
 
 
 Sales, inventory, schedules, contact information, labels, surgeries, vaccine records, 
