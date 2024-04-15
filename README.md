@@ -18,4 +18,15 @@ One significant contributor to these backups and time   needed per appointment i
 
 Physical records also contribute to low efficiency, as they must be located to lookup patient information. Physical notes also have an greater chance of being lost or damaged. Due to these concerns, many feel that an online note taking system would be an effective solution that would increase efficiency while retaining the environment of the clinic. 
 
+While the clinic does utilize technology, their use of it is very bare-bones. Records do not have complete patient information, as that is kept in a physical log. The software manages sales, inventory, schedules, and contact information, but no real record of patient's visits or history. Staff reports that the software is not very intuitive and is inconvenient. However, if an application could connect these different bussiness functions, it would be much more efficient and cohesive. 
+
 ## Solution Overview
+We plan to make a task management system for the clinic that will record patient records and histories, as well as all of the other information already collected by the current software. This system will centralize the clinic's functions and store them in a database that can be easily accessed. Not only will this streamline the clinic's appointments, but it also reduces human error by eliminating handwitten notes. This management system could potentially pose a huge benefit to the clinic, and outweighs the potential costs.
+
+### Planning Phase
+## Requirements
+
+
+
+
+Sales, inventory, schedules, contact information, labels, surgeries, vaccine records, 
