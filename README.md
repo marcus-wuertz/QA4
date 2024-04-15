@@ -9,7 +9,7 @@ Though some of the staff are comfortable with the current system of operations a
 
 To overcome this issue, Cookeville Animal Medical Clinic will have to make some changes to the way their business operates, without compromising the environment that Dr. Little has created over the years. 
 
-### Overview
+# Overview
 ## Business Problem:
 
 Though the homey feel of the clinic is attractive to many of the older residents of Cookeville, the clinic does not operate efficiently. When someone comes into the clinic, they are greeted by the receptionist, who makes a note of the main complaints for the animal. Then, they are to sit in the waiting area until a nurse can come start the appointment. Due to the number of staff and the time it takes for each appointment, the waiting area is often congested. The waiting area is not very large, so backups can cause chaos due to impatient animals.
