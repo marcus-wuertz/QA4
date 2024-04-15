@@ -1,6 +1,6 @@
 # QA4  
 ## Cookeville Animal Mecical Clinic  
-### About
+# About
 Cookeville Animal Medical Clinic is a local veterinarian that, while cozy, is admittedly behind the curve technologically speaking. They have one veterinarian, Dr. Little, who despite being well over retirement age, stays with the clinic so that it can remain open. The clinic would have to find another veterinarian to replace Dr. Little if he were to retire because they have to operate under a veterinarian's license. Though the clinic has tried, they have not found a replacement for Dr. Little, so he stays with the clinic so that it can remain open for Cookeville residents and their pets. 
 
 The Animal Clinic is quaint, with vast differences from what you would see in a clinic somewhere like Nashville. They have three clinic cats that roam the building freely all day. The clinic operates at a much slower pace, and does not see nearly the number of emergency patients as a busier clinic would. That said, the clinic has seen an influx of patients recently. As it turns out, dogs get allergies too! With a small staff, only one veterinarian, and an outdated record system, the clinic is having trouble juggling the number of patients that they see. 
