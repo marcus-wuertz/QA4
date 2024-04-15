@@ -40,7 +40,3 @@ This system could be designed using free modern software such as Visual Studio c
 The software needed to create this record system is, as stated, open source. Additionally, the costs of labor and other miscellaneouls costs are not very high. This system could potentially increase efficiency and reduce errors, as well as establishing a cohesiveness that the current software does not have. Thus, the benefits of this project far outweigh the minor costs it may impose. 
 ### Operational Feasibility
 Because this client is not agreeable to change, the application needs to be fairly intuitive. If the application can be easily used and interpreted by the staff, it will not face any tension with implementation. There is already a shared distaste for the current software because of it's complications, so an easily interpretable design would welcomed. Centralizing patient information will streamline activity in the clinic and create a more organized environment than the current state. 
-
-
-Sales, inventory, schedules, contact information, labels, surgeries, vaccine records, 
-vaccines, nail trims, non diagnosis/prescription
