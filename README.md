@@ -12,7 +12,7 @@ To overcome this issue, Cookeville Animal Medical Clinic will have to make some 
 ### Overview
 ## Business Problem:
 
-Though the homely feel of the clinic is attractive to many of the older residents of Cookeville, the clinic does not operate efficiently. When someone comes into the clinic, they are greeted by the receptionist, who makes a note of the main complaints for the animal. Then, they are to sit in the waiting area until a nurse can come start the appointment. Due to the number of staff and the time it takes for each appointment, the waiting area is often congested. The waiting area is not very large, so backups can cause chaos due to impatient animals.
+Though the homey feel of the clinic is attractive to many of the older residents of Cookeville, the clinic does not operate efficiently. When someone comes into the clinic, they are greeted by the receptionist, who makes a note of the main complaints for the animal. Then, they are to sit in the waiting area until a nurse can come start the appointment. Due to the number of staff and the time it takes for each appointment, the waiting area is often congested. The waiting area is not very large, so backups can cause chaos due to impatient animals.
 
 One significant contributor to these backups and time   needed per appointment is the physical documentation of patient records. It takes much longer to write down patient information as the owner is saying it to the technicians as opposed to an electronic system. Additionally, newer staff report difficulties effectively communicating everything the owner is saying, as well as difficulty understanding the shorthand the clinic uses. The staff also report issues reading Dr. Little's handwriting; apparently even animal doctors fit the stereotype. 
 
